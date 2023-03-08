@@ -1,5 +1,4 @@
 use clap::{App, Arg};
-use core::num;
 use std::error::Error;
 use std::fs::File;
 use std::io::{self, BufRead, BufReader, Read};
