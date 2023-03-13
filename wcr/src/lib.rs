@@ -1,8 +1,6 @@
 use clap::{App, Arg};
-use core::num;
 use std::{
     error::Error,
-    fmt::format,
     fs::File,
     io::{self, BufRead, BufReader},
 };
